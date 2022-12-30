@@ -9,7 +9,7 @@
     },
     "dependencies": {
         "immutable": "^3.8.2",
-        "import-jsx": "^2.0.0",
+        "import-jsx": "^4.0.1",
         "react": "^16.5.0",
         "react-dom": "^16.5.0",
         "react-modal": "^3.8.1",
@@ -18,11 +18,11 @@
     },
     "devDependencies": {
         "@babel/core": "^7.1.2",
-        "babel-loader": "^8.0.0",
+        "babel-loader": "^8.3.0",
         "@babel/preset-env": "^7.1.0",
         "@babel/preset-react": "^7.0.0",
-        "webpack": "^4.20.0",
-        "webpack-cli": "^3.1.2",
+        "webpack": "^5.75.0",
+        "webpack-cli": "^5.0.1",
         "webpack-dev-server": "^3.1.9"
     }
 }
